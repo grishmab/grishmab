@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @grishmab
+- 👋🏼Hi, I’m @grishmab
 - 👀 I’m interested in the intersection of Data, Social Good and Policy Making
 - 🌱 I’m currently learning Econometrics (in R and Stata)
 - 📫 You can reach me by email: itsgrishmab@gmail.com

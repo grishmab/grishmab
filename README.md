@@ -1,6 +1,6 @@
 - 👋🏼 Hi, I’m @grishmab
 - 👀 I’m interested in the intersection of Data, Social Impact, Technology, and Innovation
-- 🌱 I’m currently working as a Data Scientist @UChicago and @Cambridge SupTech Lab (University of Cambridge)
+- 🌱 I’m currently working as a Data Scientist @UChicago and @Cambridge SupTech Lab (University of Cambridge) and finishing up my degree in Quantitative Public Policy w/ certifications in Data Analytics and Computational Social Science @UChicago
 - 📫 You can reach me by email: grishmab@uchicago.edu
 
 <!---

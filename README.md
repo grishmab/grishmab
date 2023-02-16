@@ -1,6 +1,6 @@
 - 👋🏼 Hi, I’m @grishmab
-- 👀 I’m interested in the intersection of Data, Social Good, International Development and, Policy Making
-- 🌱 I’m currently learning Econometrics (in R and Stata) and Machine Learning (in Python)
+- 👀 I’m interested in the intersection of Data, Social Impact, Technology, and Innovation
+- 🌱 I’m currently working as a Data Scientist @UChicago and @Cambridge SupTech Lab (University of Cambridge)
 - 📫 You can reach me by email: grishmab@uchicago.edu
 
 <!---
